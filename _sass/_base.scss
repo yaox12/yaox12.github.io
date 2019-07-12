@@ -26,6 +26,7 @@ a {
 
 p {
     line-height: 1.5;
+    margin-bottom: 5px;
 }
 
 .wrapper {
@@ -40,7 +41,7 @@ p {
     background: $theme-color;
     position: absolute;
     right: 0;
-    width: 280px;
+    width: 300px;
     height: 100%;
     min-height: 800px;
     color: #fff;
@@ -55,7 +56,7 @@ p {
         color: #fff;
     }
     .name {
-        font-size: 32px;
+        font-size: 30px;
         font-weight: 900;
         margin-top: 0;
         margin-bottom: 10px;
@@ -166,6 +167,14 @@ p {
         margin-top: 0;
         margin-bottom: 20px;
     }
+    .subsection {
+        font-size: 18px;
+        font-weight: 500;
+        color: darken($theme-color, 15%);
+        position: relative;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
     .section {
         margin-bottom: 60px;
     }
@@ -224,12 +233,17 @@ p {
         color: $text-grey;
         margin-bottom: 1px;
     }
+    .publication-conference {
+        color: $text-color;
+        margin-top: 0;
+        margin-bottom: 1px;
+    }
     .publications-section {
         .intro {
             margin-bottom: 30px;
         }
         .item {
-            margin-bottom: 15px;
+            margin-bottom: 20px;
         }
     }
 }
