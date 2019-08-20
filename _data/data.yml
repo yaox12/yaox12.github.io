@@ -82,12 +82,12 @@ publications:
         conference: "To appear in SIGCOMM 2019 Posters & Demos"
 
       - title: "Federated Learning with Additional Mechanisms on Clients to Reduce Communication Costs"
-        authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Ruixiao Zhang, Lifeng Sun"
-        conference: "arXiv: 1908.05891"
+        authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun"
+        conference: "arXiv: 1908.05891 [[PDF](/assets/files/yao2019federated.pdf)]"
 
       - title: "Towards Faster and Better Federated Learning: A Feature Fusion Approach"
-        authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Ruixiao Zhang, Lifeng Sun"
-        conference: "To appear in ICIP 2019"
+        authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun"
+        conference: "To appear in ICIP 2019 [[Code](https://github.com/thu-media/FedFusion)]"
 
       - title: "Enhancing the Crowdsourced Live Streaming: a Deep Reinforcement Learning Approach"
         authors: "Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
@@ -99,7 +99,7 @@ publications:
 
       - title: "Two-Stream Federated Learning: Reduce the Communication Costs"
         authors: "**Xin Yao**, Chaofeng Huang, Lifeng Sun"
-        conference: "VCIP 2018"
+        conference: "VCIP 2018 [[Code](https://github.com/thu-media/TwoStreamFederatedLearning)]"
 
     journal:
       - title: "Adversarial Feature Alignment: Avoid Catastrophic Forgetting in Incremental Task Lifelong Learning"
