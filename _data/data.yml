@@ -71,7 +71,7 @@ publications:
     conference:
       - title: "Comyco: A Video Quality-aware Adaptive Bitrate Approach via Imitation Learning"
         authors: "Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
-        conference: "To appear in ACM MM 2019"
+        conference: "To appear in ACM MM 2019 [[PDF](https://arxiv.org/pdf/1908.02270.pdf)] [[Code](https://github.com/thu-media/Comyco)]"
 
       - title: "Livesmart: a QoS-Guaranteed Cost-minimum framework of viewer scheduling for Crowdsourced Live streaming"
         authors: "Rui-Xiao Zhang, Ming Ma, Tianchi Huang, Haitian Pang, **Xin Yao**, Chenglei Wu, Jiangchuan Liu, Lifeng Sun"
@@ -79,7 +79,7 @@ publications:
 
       - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
         authors: "Tianchi Huang, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
-        conference: "To appear in SIGCOMM 2019 Posters & Demos"
+        conference: "To appear in SIGCOMM 2019 Posters & Demos [[PDF](https://godka.github.io/sigcomm19posters-final10.pdf)]"
 
       - title: "Federated Learning with Additional Mechanisms on Clients to Reduce Communication Costs"
         authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun"
@@ -87,19 +87,19 @@ publications:
 
       - title: "Towards Faster and Better Federated Learning: A Feature Fusion Approach"
         authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun"
-        conference: "To appear in ICIP 2019 [[Code](https://github.com/thu-media/FedFusion)]"
+        conference: "To appear in ICIP 2019 [[PDF (Full Version)](/assets/files/yao2019federated.pdf)] [[Code](https://github.com/thu-media/FedFusion)]"
 
       - title: "Enhancing the Crowdsourced Live Streaming: a Deep Reinforcement Learning Approach"
         authors: "Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
-        conference: "NOSSDAV 2019 (**Best Student Paper**)"
+        conference: "NOSSDAV 2019 (**Best Student Paper**) [[PDF](http://godka.github.io/nossdav19-final10.pdf)]"
 
       - title: "Tiyuntsong: A Self-Play Reinforcement Learning Approach for ABR Video Streaming"
         authors: "Tianchi Huang, **Xin Yao**, Chenglei Wu, Rui-Xiao Zhang, Zhengyuan Pang, Lifeng Sun"
-        conference: "ICME 2019"
+        conference: "ICME 2019 [[PDF](https://arxiv.org/pdf/1811.06166.pdf)] [[Code](https://github.com/thu-media/Tiyuntsong)]"
 
       - title: "Two-Stream Federated Learning: Reduce the Communication Costs"
         authors: "**Xin Yao**, Chaofeng Huang, Lifeng Sun"
-        conference: "VCIP 2018 [[Code](https://github.com/thu-media/TwoStreamFederatedLearning)]"
+        conference: "VCIP 2018 [[PDF (Full Version)](/assets/files/yao2019federated.pdf)] [[Code](https://github.com/thu-media/TwoStreamFederatedLearning)]"
 
     journal:
       - title: "Adversarial Feature Alignment: Avoid Catastrophic Forgetting in Incremental Task Lifelong Learning"
