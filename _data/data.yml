@@ -47,7 +47,7 @@ about-me:
       Currently I am a Ph.D. student in the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Lifeng Sun.
       I received my bachelor's degree from the Department of Computer Science and Technology at Tsinghua University in 2016.
 
-      My research interests focus on the federated learning, lifelong/continual learning and domain adaptation.
+      My research interests focus on federated learning, lifelong/continual learning, and transfer learning.
 
 education:
     - degree: Ph.D. Candidate in Computer Science
@@ -73,9 +73,9 @@ publications:
         authors: "Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
         conference: "To appear in ACM MM 2019 [[PDF](https://arxiv.org/pdf/1908.02270.pdf)] [[Code](https://github.com/thu-media/Comyco)]"
 
-      - title: "Livesmart: a QoS-Guaranteed Cost-minimum framework of viewer scheduling for Crowdsourced Live streaming"
-        authors: "Rui-Xiao Zhang, Ming Ma, Tianchi Huang, Haitian Pang, **Xin Yao**, Chenglei Wu, Jiangchuan Liu, Lifeng Sun"
-        conference: "To appear in ACM MM 2019"
+      # - title: "Livesmart: a QoS-Guaranteed Cost-minimum framework of viewer scheduling for Crowdsourced Live streaming"
+      #   authors: "Rui-Xiao Zhang, Ming Ma, Tianchi Huang, Haitian Pang, **Xin Yao**, Chenglei Wu, Jiangchuan Liu, Lifeng Sun"
+      #   conference: "To appear in ACM MM 2019"
 
       - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
         authors: "Tianchi Huang, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
@@ -89,9 +89,9 @@ publications:
         authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun"
         conference: "To appear in ICIP 2019 [[PDF (Full Version)](/assets/files/yao2019federated.pdf)] [[Code](https://github.com/thu-media/FedFusion)]"
 
-      - title: "Enhancing the Crowdsourced Live Streaming: a Deep Reinforcement Learning Approach"
-        authors: "Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
-        conference: "NOSSDAV 2019 (**Best Student Paper**) [[PDF](http://godka.github.io/nossdav19-final10.pdf)]"
+      # - title: "Enhancing the Crowdsourced Live Streaming: a Deep Reinforcement Learning Approach"
+      #   authors: "Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
+      #   conference: "NOSSDAV 2019 (**Best Student Paper**) [[PDF](http://godka.github.io/nossdav19-final10.pdf)]"
 
       - title: "Tiyuntsong: A Self-Play Reinforcement Learning Approach for ABR Video Streaming"
         authors: "Tianchi Huang, **Xin Yao**, Chenglei Wu, Rui-Xiao Zhang, Zhengyuan Pang, Lifeng Sun"
