@@ -44,18 +44,18 @@ sidebar:
 about-me:
     title: About Me
     summary: |
-      Currently I am a Ph.D. student in the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Lifeng Sun.
+      Currently I am a Ph.D. candidate in the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Lifeng Sun.
       I received my bachelor's degree from the Department of Computer Science and Technology at Tsinghua University in 2016.
 
       My research interests focus on federated learning, lifelong/continual learning, and transfer learning.
 
 education:
-    - degree: Ph.D. Candidate in Computer Science
+    - degree: Ph.D. Candidate in Computer Science and Technology
       university: Tsinghua University
-      time: 2016 - present
+      time: 2016 - Present
       details:
 
-    - degree: Bachelor in Computer Science
+    - degree: B.E. in Computer Science and Technology
       university: Tsinghua University
       time: 2012 - 2016
       details:
@@ -71,40 +71,39 @@ publications:
     conference:
       - title: "Comyco: A Video Quality-aware Adaptive Bitrate Approach via Imitation Learning"
         authors: "Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
-        conference: "To appear in ACM MM 2019 [[PDF](https://arxiv.org/pdf/1908.02270.pdf)] [[Code](https://github.com/thu-media/Comyco)]"
-
-      # - title: "Livesmart: a QoS-Guaranteed Cost-minimum framework of viewer scheduling for Crowdsourced Live streaming"
-      #   authors: "Rui-Xiao Zhang, Ming Ma, Tianchi Huang, Haitian Pang, **Xin Yao**, Chenglei Wu, Jiangchuan Liu, Lifeng Sun"
-      #   conference: "To appear in ACM MM 2019"
+        conference: "ACM International Conference on Multimedia (ACM MM) 2019"
+        link: "[[PDF](https://arxiv.org/pdf/1908.02270.pdf)] [[Code](https://github.com/thu-media/Comyco)]"
 
       - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
         authors: "Tianchi Huang, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
-        conference: "To appear in SIGCOMM 2019 Posters & Demos [[PDF](https://godka.github.io/sigcomm19posters-final10.pdf)]"
+        conference: "ACM SIGCOMM 2019 Conference Posters and Demos"
+        link: "[[PDF](https://godka.github.io/sigcomm19posters-final10.pdf)]"
 
       - title: "Federated Learning with Additional Mechanisms on Clients to Reduce Communication Costs"
         authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun"
-        conference: "arXiv: 1908.05891 [[PDF](/assets/files/yao2019federated.pdf)]"
+        conference: "arXiv: 1908.05891"
+        link: "[[PDF](/assets/files/yao2019federated.pdf)]"
 
       - title: "Towards Faster and Better Federated Learning: A Feature Fusion Approach"
         authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun"
-        conference: "To appear in ICIP 2019 [[PDF (Full Version)](/assets/files/yao2019federated.pdf)] [[Code](https://github.com/thu-media/FedFusion)]"
-
-      # - title: "Enhancing the Crowdsourced Live Streaming: a Deep Reinforcement Learning Approach"
-      #   authors: "Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
-      #   conference: "NOSSDAV 2019 (**Best Student Paper**) [[PDF](http://godka.github.io/nossdav19-final10.pdf)]"
+        conference: "IEEE International Conference on Image Processing (ICIP) 2019 (**Oral**)"
+        link: "[[PDF (Full Version)](/assets/files/yao2019federated.pdf)] [[Code](https://github.com/thu-media/FedFusion)]"
 
       - title: "Tiyuntsong: A Self-Play Reinforcement Learning Approach for ABR Video Streaming"
         authors: "Tianchi Huang, **Xin Yao**, Chenglei Wu, Rui-Xiao Zhang, Zhengyuan Pang, Lifeng Sun"
-        conference: "ICME 2019 [[PDF](https://arxiv.org/pdf/1811.06166.pdf)] [[Code](https://github.com/thu-media/Tiyuntsong)]"
+        conference: "IEEE International Conference on Multimedia and Expo (ICME) 2019"
+        link: "[[PDF](https://arxiv.org/pdf/1811.06166.pdf)] [[Code](https://github.com/thu-media/Tiyuntsong)]"
 
       - title: "Two-Stream Federated Learning: Reduce the Communication Costs"
         authors: "**Xin Yao**, Chaofeng Huang, Lifeng Sun"
-        conference: "VCIP 2018 [[PDF (Full Version)](/assets/files/yao2019federated.pdf)] [[Code](https://github.com/thu-media/TwoStreamFederatedLearning)]"
+        conference: "IEEE International Conference on Visual Communications and Image Processing (VCIP) 2018"
+        link: "[[PDF (Full Version)](/assets/files/yao2019federated.pdf)] [[Code](https://github.com/thu-media/TwoStreamFederatedLearning)]"
 
     journal:
       - title: "Adversarial Feature Alignment: Avoid Catastrophic Forgetting in Incremental Task Lifelong Learning"
-        authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Ruixiao Zhang, Lifeng Sun"
-        journal: "To appear in Neural Computation"
+        authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun"
+        journal: "Neural Computation 2019 (Volume 31, Issue 11)"
+        link: "[[Link]()] [[PDF (arXiv Version)]()]"
 
 skills:
     # title: Skills &amp; Proficiency
