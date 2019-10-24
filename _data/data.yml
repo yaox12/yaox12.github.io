@@ -69,6 +69,11 @@ experiences:
 publications:
     title: Publications
     conference:
+      - title: "Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating"
+        authors: "**Xin Yao**, Tianchi Huang, Rui-Xiao Zhang, Ruiyu Li, Lifeng Sun"
+        conference: "NeurIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality (FL-NeurIPS 2019)"
+        link: "[[PDF](https://arxiv.org/pdf/1910.08234.pdf)]"
+
       - title: "Comyco: A Video Quality-aware Adaptive Bitrate Approach via Imitation Learning"
         authors: "Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
         conference: "ACM International Conference on Multimedia (ACM MM) 2019"
@@ -103,7 +108,7 @@ publications:
       - title: "Adversarial Feature Alignment: Avoid Catastrophic Forgetting in Incremental Task Lifelong Learning"
         authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun"
         journal: "Neural Computation 2019 (Volume 31, Issue 11)"
-        link: "[[Link]()] [[PDF (arXiv Version)]()]"
+        link: "[[Link](https://www.mitpressjournals.org/doi/full/10.1162/neco_a_01232)] [[PDF (arXiv Version)](https://arxiv.org/pdf/1910.10986.pdf)]"
 
 skills:
     # title: Skills &amp; Proficiency
