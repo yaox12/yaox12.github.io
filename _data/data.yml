@@ -52,27 +52,42 @@ about-me:
 education:
     - degree: Ph.D. Candidate in Computer Science and Technology
       university: Tsinghua University
-      time: 2016 - Present
+      time: Aug 2016 - Present
       details:
 
     - degree: B.E. in Computer Science and Technology
       university: Tsinghua University
-      time: 2012 - 2016
+      time: Aug 2012 - July 2016
+      details:
+
+    - degree: B.B. (Second Major) in Business Administration and Management
+      university: Tsinghua University
+      time: Sept 2013 - July 2016
       details:
 
 experiences:
     - role: Research Intern
-      time: 2019.07 - Present
+      time: July 2019 - Jan 2020
       company: Youtu X-Lab, Tencent, Shenzhen, China
       details:
 
 publications:
     title: Publications
     conference:
+      - title: "Stick: A Harmonious Fusion of Buffer-based and Learning-based Approach for Adaptive Streaming"
+        authors: "Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
+        conference: "INFOCOM 2020"
+        # link: "[[PDF]()]"
+
       - title: "Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating"
         authors: "**Xin Yao**, Tianchi Huang, Rui-Xiao Zhang, Ruiyu Li, Lifeng Sun"
         conference: "NeurIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality (FL-NeurIPS 2019)"
         link: "[[PDF](https://arxiv.org/pdf/1910.08234.pdf)]"
+
+      - title: "Generalizing Rate Control Strategies for Real-time Video Streaming via Learning from Deep Learning"
+        authors: "Tianchi Huang, Rui-Xiao Zhang, Chenglei Wu, **Xin Yao**, Chao Zhou, Bing Yu, Lifeng Sun"
+        conference: "ACM MM Asia 2019"
+        link: "[[PDF](http://godka.github.io/mmasia19-aqarc.pdf)]"
 
       - title: "Comyco: A Video Quality-aware Adaptive Bitrate Approach via Imitation Learning"
         authors: "Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
