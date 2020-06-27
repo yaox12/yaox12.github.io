@@ -52,36 +52,46 @@ about-me:
 education:
     - degree: Ph.D. Candidate in Computer Science and Technology
       university: Tsinghua University
-      time: Aug 2016 - Present
+      time: Aug. 2016 - Present
       details:
 
     - degree: B.E. in Computer Science and Technology
       university: Tsinghua University
-      time: Aug 2012 - July 2016
+      time: Aug. 2012 - July 2016
       details:
 
     - degree: B.B. (Second Major) in Business Administration and Management
       university: Tsinghua University
-      time: Sept 2013 - July 2016
+      time: Sept. 2013 - July 2016
       details:
 
 experiences:
     - role: Research Intern
-      time: July 2019 - Jan 2020
+      time: June 2020 - Present
+      company: DAMO Academy, Alibaba, Beijing, China
+      details:
+
+    - role: Research Intern
+      time: July 2019 - Jan. 2020
       company: Youtu X-Lab, Tencent, Shenzhen, China
       details:
 
 publications:
     title: Publications
     conference:
+      - title: "Continual Local Training for Better Initialization of Federated Models"
+        authors: "**Xin Yao**, Lifeng Sun"
+        conference: "2020 IEEE International Conference on Image Processing (ICIP)"
+        link: "[[PDF](https://arxiv.org/pdf/2005.12657.pdf)] [[Code](https://github.com/thu-media/FedCL)]"
+
       - title: "Stick: A Harmonious Fusion of Buffer-based and Learning-based Approach for Adaptive Streaming"
         authors: "Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
-        conference: "INFOCOM 2020"
+        conference: "2020 IEEE International Conference on Computer Communications (INFOCOM)"
         # link: "[[PDF]()]"
 
       - title: "Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating"
         authors: "**Xin Yao**, Tianchi Huang, Rui-Xiao Zhang, Ruiyu Li, Lifeng Sun"
-        conference: "NeurIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality (FL-NeurIPS 2019)"
+        conference: "2019 NeurIPS Workshop on Federated Learning for Data Privacy and Confidentiality (FL-NeurIPS 2019)"
         link: "[[PDF](https://arxiv.org/pdf/1910.08234.pdf)]"
 
       - title: "Generalizing Rate Control Strategies for Real-time Video Streaming via Learning from Deep Learning"
@@ -91,8 +101,13 @@ publications:
 
       - title: "Comyco: A Video Quality-aware Adaptive Bitrate Approach via Imitation Learning"
         authors: "Tianchi Huang, Chao Zhou, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
-        conference: "ACM International Conference on Multimedia (ACM MM) 2019"
+        conference: "The 29th ACM International Conference on Multimedia (ACM MM), 2019"
         link: "[[PDF](https://arxiv.org/pdf/1908.02270.pdf)] [[Code](https://github.com/thu-media/Comyco)]"
+
+      - title: "Livesmart: A QoS-Guaranteed Cost-Minimum Framework of Viewer Scheduling for Crowdsourced Live Streaming"
+        authors: "Rui-Xiao Zhang, Ming Ma, Tianchi Huang, Haitian Pang, **Xin Yao**, Chenglei Wu, Jiangchuan Liu, Lifeng Sun"
+        conference: "The 29th ACM International Conference on Multimedia (ACM MM), 2019"
+        link: "[[PDF](https://thu.media/downloads/mm19-zhang-livesmart.pdf)]"
 
       - title: "Being more Effective and Interpretable: Bridging the Gap Between Heuristics and AI for ABR Algorithms"
         authors: "Tianchi Huang, Rui-Xiao Zhang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
@@ -101,25 +116,40 @@ publications:
 
       - title: "Federated Learning with Additional Mechanisms on Clients to Reduce Communication Costs"
         authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun"
-        conference: "arXiv: 1908.05891"
+        conference: "arXiv preprint arXiv: 1908.05891"
         link: "[[PDF](/assets/files/yao2019federated.pdf)]"
 
       - title: "Towards Faster and Better Federated Learning: A Feature Fusion Approach"
         authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun"
-        conference: "IEEE International Conference on Image Processing (ICIP) 2019 (**Oral**)"
+        conference: "2019 IEEE International Conference on Image Processing (ICIP) (**Oral**)"
         link: "[[PDF (Full Version)](/assets/files/yao2019federated.pdf)] [[Code](https://github.com/thu-media/FedFusion)]"
+
+      - title: "Enhancing the Crowdsourced Live Streaming: A Deep Reinforcement Learning Approach"
+        authors: "Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
+        conference: "The 29th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV), 2019"
+        link: "[[PDF](http://godka.github.io/nossdav19-final10.pdf)]"
 
       - title: "Tiyuntsong: A Self-Play Reinforcement Learning Approach for ABR Video Streaming"
         authors: "Tianchi Huang, **Xin Yao**, Chenglei Wu, Rui-Xiao Zhang, Zhengyuan Pang, Lifeng Sun"
-        conference: "IEEE International Conference on Multimedia and Expo (ICME) 2019"
+        conference: "2019 IEEE International Conference on Multimedia and Expo (ICME)"
         link: "[[PDF](https://arxiv.org/pdf/1811.06166.pdf)] [[Code](https://github.com/thu-media/Tiyuntsong)]"
 
       - title: "Two-Stream Federated Learning: Reduce the Communication Costs"
         authors: "**Xin Yao**, Chaofeng Huang, Lifeng Sun"
-        conference: "IEEE International Conference on Visual Communications and Image Processing (VCIP) 2018"
+        conference: "2018 IEEE International Conference on Visual Communications and Image Processing (VCIP)"
         link: "[[PDF (Full Version)](/assets/files/yao2019federated.pdf)] [[Code](https://github.com/thu-media/TwoStreamFederatedLearning)]"
 
     journal:
+      - title: "A Practical Learning-based Approach for Viewer Scheduling in the Crowdsourced Live Streaming"
+        authors: "Rui-Xiao Zhang, Tianchi Huang, Ming Ma, Haitian Pang, **Xin Yao**, Chenglei Wu, Lifeng Sun"
+        journal: "ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2020 (Volume 16, Issue 25)"
+        link: "[[Link](https://dl.acm.org/doi/abs/10.1145/3397226)]"
+
+      - title: "Quality-aware Neural Adaptive Video Streaming with Lifelong Imitation Learning"
+        authors: "Tianchi Huang, Chao Zhou, **Xin Yao**, Rui-Xiao Zhang, Chenglei Wu, Bing Yu, Lifeng Sun"
+        journal: "IEEE Journal on Selected Areas in Communications (JSAC), 2020"
+        # link: "[[Link]()] [[PDF]()]"
+
       - title: "Adversarial Feature Alignment: Avoid Catastrophic Forgetting in Incremental Task Lifelong Learning"
         authors: "**Xin Yao**, Tianchi Huang, Chenglei Wu, Rui-Xiao Zhang, Lifeng Sun"
         journal: "Neural Computation 2019 (Volume 31, Issue 11)"
