@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Xin Yao (姚鑫)
-    tagline: Ph.D. Candidate
+    tagline: Engineer, Tech SW @ NVIDIA
     avatar: yaoxin.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,15 +44,15 @@ sidebar:
 about-me:
     title: About Me
     summary: |
-      Currently I am a Ph.D. candidate in the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Lifeng Sun.
-      I received my bachelor's degree from the Department of Computer Science and Technology at Tsinghua University in 2016.
+      I received my bachelor's degree in 2016 and Ph.D. degree in 2021 (advised by Prof. Lifeng Sun) from the Department of Computer Science and Technology at Tsinghua University.
+      My research is mainly focused on federated learning, lifelong/continual learning, and transfer learning during the postgraduate period.
 
-      My research interests focus on federated learning, lifelong/continual learning, and transfer learning.
+      Currently I am a software engineer at DevTech, NVIDIA.
 
 education:
-    - degree: Ph.D. Candidate in Computer Science and Technology
+    - degree: Ph.D. in Computer Science and Technology
       university: Tsinghua University
-      time: Aug. 2016 - Present
+      time: Aug. 2016 - June 2021
       details:
 
     - degree: B.E. in Computer Science and Technology
@@ -66,6 +66,11 @@ education:
       details:
 
 experiences:
+    - role: Engineer, Tech SW
+      time: July 2021 - Present
+      company: DevTech, NVIDIA, Shanghai, China
+      details:
+
     - role: Research Intern
       time: June 2020 - Sept. 2020
       company: DAMO Academy, Alibaba, Beijing, China
